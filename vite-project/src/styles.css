@@ -1,0 +1,23 @@
+#nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+#menu {
+  width: 20px;
+  height: 20px;
+}
+
+#headline {
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+#gallery {
+  background-color: white;
+  display: flex;
+}
+
+.text {
+  color: black;
+}
